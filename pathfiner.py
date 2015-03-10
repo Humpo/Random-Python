@@ -1,4 +1,4 @@
-#!/usr/bin/python
+##!/usr/bin/python
 def compress(instructions):
     count=0
     comp_list = []
