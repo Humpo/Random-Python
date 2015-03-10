@@ -4,7 +4,7 @@ from copy import deepcopy
 def insert_vals(certain_vals, board):
     '''
     inserts selected values in certain coords by digit
-    returns board dict with 
+    returns board dict with.
     '''
     for digit in certain_vals:
         board[digit]+=certain_vals[digit]
